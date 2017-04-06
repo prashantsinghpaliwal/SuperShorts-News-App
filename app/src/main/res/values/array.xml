@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="type_names">
+        <item>Everything</item>
+        <item>Sports</item>
+        <item>Cricket</item>
+        <item>SciFi</item>
+        <item>Business</item>
+    </string-array>
+
+    <string-array name="type_values">
+        <item>the-times-of-india</item>
+        <item>bbc-sport</item>
+        <item>espn-cric-info</item>
+        <item>techradar</item>
+        <item>business-insider</item>
+    </string-array>
+
+
+</resources>
